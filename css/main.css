@@ -1,0 +1,14 @@
+*{font-family: 'Roboto', sans-serif;}
+.icon-bar i{font-size:25px;padding: 15px;color:#fff;}
+.carousel-caption{top:200px;right:50%;margin: auto;text-align: left;}
+.carousel-caption h5{font-size:40px;font-weight:700;}
+.carousel-caption p{font-size:15px;font-weight:300;margin-bottom: 40px;color:#a9adb1;}
+.carousel-caption a{text-decoration:none;background:#ff771f;border:none;border-radius:8px;padding:15px;}
+.new-movie-img img{width:16%;margin-left:15px;}
+.bg{background:#0e111a;}
+.new-movie-text p,.color p{color:#59636d;}
+.new-movie-text a{color:#fff;}
+.color a{color:#59636d;}
+.bg-1{background:#e6e7e9;}
+.color1{color:#ffa172;}
+.padding-icon{padding-left:180px;}
